@@ -2,9 +2,7 @@
 ```markdown
 # 📊 Open Data Explorer (TP3)
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red)
-![Ollama](https://img.shields.io/badge/AI-Ollama%20Local-orange)
+
 
 Application Data Interactive permettant d'explorer, de visualiser et d'interroger en langage naturel des datasets issus d'OpenFoodFacts.
 
