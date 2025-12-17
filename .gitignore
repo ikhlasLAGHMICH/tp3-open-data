@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Données (On ne versionne pas les données lourdes)
+data/processed/*
+!data/processed/.gitkeep
+
+# IDE
+.vscode/
+.idea/
